@@ -1,0 +1,12 @@
+6
+1
+      [ID]                Name           Cost         Number       Exp.Date         Volume        Percent
+        0;               Beer;            10;            54;    10.10.2021;           0.5;           4.1;
+3
+      [ID]                Name           Cost         Number       Exp.Date         Volume
+        4;                Tea;             3;            10;     2. 2.2023;           0.5;
+        5;              Water;             4;            24;     2. 1.2025;             1;
+        3;          Coca-cola;            11;            24;    11. 5.2022;             1;
+1
+      [ID]                Name           Cost         Number       Exp.Date         Weight
+        1;              Lay's;             6;           200;    11. 9.2022;            50;
